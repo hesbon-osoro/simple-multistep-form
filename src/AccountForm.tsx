@@ -15,7 +15,7 @@ export function AccountForm({
   updateFields,
 }: AccountFormProps) {
   return (
-    <FormWrapper>
+    <FormWrapper title='Account Details'>
       <label htmlFor="email">Email</label>
       <input
         autoFocus
