@@ -60,7 +60,7 @@ const App = () => {
         maxWidth: 'max-content',
       }}
     >
-      <form onSubmit={onsubmit}>
+      <form onSubmit={onSubmit}>
         <div style={{ position: 'absolute', top: '.5rem', right: '.5rem' }}>
           {currentStepIndex + 1}/{steps.length}
         </div>
