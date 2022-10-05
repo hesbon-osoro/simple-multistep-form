@@ -1,5 +1,11 @@
 # Simple MultiStep Form
 
+[![MultiStep](assets/simple-multistep.png)](https://simple-multistep-form.netlify.app/)
+
+[![Address](assets/simple-multistep-address.png)](https://simple-multistep-form.netlify.app/)
+
+[![Account](assets/simple-multistep-account.png)](https://simple-multistep-form.netlify.app/)
+
 ## Technologies
 
 - React
